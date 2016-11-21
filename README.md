@@ -1,4 +1,5 @@
-[![](https://badge.imagelayers.io/ciaolang/ciao:latest.svg)](https://imagelayers.io/?images=ciaolang/ciao:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/ciaolang/ciao.svg)](https://microbadger.com/images/ciaolang/ciao "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/ciaolang/ciao.svg)](https://microbadger.com/images/ciaolang/ciao "Get your own version badge on microbadger.com")
 
 This [Docker](https://www.docker.com) image corresponds to
 [ciaolang/ciao](https://hub.docker.com/r/ciaolang/ciao). It is built
